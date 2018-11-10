@@ -1,0 +1,33 @@
+viet mot chuong trinh nhap diem hoc sinh
+neu diem lon bang 9 la xuat sac
+8-9 gioi
+7- can 8 kha
+6 - can 7 tb kha
+5-6 tb
+yeu
+
+== so sanh
+= gan gia tri
+% la lay du
+
+HD 4 so
+a,b ->max 1
+c,d ->max 2
+-> max1,max2 -> MAX
+Cau truc if - else 
+	if()
+	{
+		
+	}
+	else
+	{
+		
+	}
+Long if
+	if()	
+	{
+		if()
+		{
+		
+		}
+	}

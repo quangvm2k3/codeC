@@ -1,0 +1,45 @@
+Ngôn ngữ lập trình (21/7/2018)
+-Thuật toán: Logic và Điều khiển  
+-Chương trình: Cấu trúc dữ liệu :tuần tự ,chọn lọc, lặp lại
+-Các bước lập trình
+
+B1: Phân tích vấn đề
+B2: Lập giải pháp
+B3: Lập trình
+B4: Kiểm thử
+
+Bài tập: 
+*Input: li, đường, chanh, nước nóng, muỗng
+Quy trình: - Cho nước vào li
+           - Vắt chanh vào nước
+           - Cho đường vào nước
+           - Dùng muỗng quấy
+Output: li nước chanh đường nóng
+*Xác định input, output, process của pt bậc nhất ax+b=0
+Input: a, b
+Process: ax = 0-b
+         x = -b/a  
+Ouput: x
+
+*Xác định input, output ,process của số lớn nhất giữa hai số a, b
+Input: a, b
+Process: a>b 
+         b>a   
+Output: a>b ->a
+        b>a ->b
+
+*Xác định input bài toán đổi tiền vnd sang usd
+Input: VND
+Process: USD = VND x tỉ giá
+Output: USD
+
+Lưu ý + các kí tự điều khiển
+\n : nhảy xuống dòng kế tiếp canh về cột đầu tiên
+\t : canh cột tab ngang
+\r: nhảy về đầu hàng, không xuống hàng
+\a : tiếng kêu bip
+      + các kí tự đặc biệt:
+\\ : in ra dấu \
+\" : in ra dấu "
+\' : in ra dấu '      
+ 
