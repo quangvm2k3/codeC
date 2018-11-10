@@ -1,10 +1,16 @@
 #include <stdio.h>
 
+// hahaha hihihi
+// just fun
 char hoa_thuong(char a)
 {
 	int convert;
 	convert = ((int)a) + 32;
 	return ((char)convert);
+}
+int test(int a, int b)
+{
+	return a + b;
 }
  char thuong_hoa (char b)
  {
